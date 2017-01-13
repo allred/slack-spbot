@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/allred/slack-spbot#readme",
   "dependencies": {
-    "botkit": "^0.4.9"
+    "botkit": "^0.4.9",
+    "lodash": "^4.17.4",
+    "reverse-string": "0.0.6"
   }
 }
