@@ -1,0 +1,23 @@
+{
+  "name": "slack-spbot",
+  "version": "1.0.0",
+  "description": "spbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allred/slack-spbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allred/slack-spbot/issues"
+  },
+  "homepage": "https://github.com/allred/slack-spbot#readme",
+  "dependencies": {
+    "botkit": "^0.4.9"
+  }
+}
